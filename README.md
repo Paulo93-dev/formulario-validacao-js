@@ -5,6 +5,4 @@ Tecnologias:
 HTML
 CSS
 JavaScript
-## Preview do projeto
 
-![Preview do projeto](screenshot.png)
