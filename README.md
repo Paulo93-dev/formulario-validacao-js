@@ -1,10 +1,26 @@
-Site funcionando: https://paulo93-dev.github.io/formulario-validacao-js/
-Formulário com validação em JavaScript
-Projeto desenvolvido com HTML, CSS e JavaScript que realiza validação de campos em tempo real.
-Tecnologias:
-HTML
-CSS
-JavaScript
+📋 Formulário com Validação em JavaScript
 
-## Preview do projeto
-![Preview do projeto](Formulário.png)
+Este projeto é um formulário com validação desenvolvido utilizando HTML, CSS e JavaScript.  
+O objetivo é validar os dados digitados pelo usuário antes do envio, garantindo que os campos estejam preenchidos corretamente.
+
+🚀 Funcionalidades
+
+- Validação de campos obrigatórios
+- Validação de formato de e-mail
+- Verificação de senha com número mínimo de caracteres
+- Feedback visual nos campos (erro ou sucesso)
+- Interface simples e responsiva
+
+🛠 Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- 
+📸 Preview do projeto
+
+![Preview do formulário](Formulário.png)
+
+## 🌐 Acesse o projeto online
+
+https://paulo93-dev.github.io/formulario-validacao-js
