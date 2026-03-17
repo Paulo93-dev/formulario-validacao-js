@@ -5,6 +5,6 @@ Tecnologias:
 HTML
 CSS
 JavaScript
-## Preview do projeto
 
-![Preview do projeto](Formuláio.png)
+## Preview do projeto
+![Preview do projeto](Formulário.png)
