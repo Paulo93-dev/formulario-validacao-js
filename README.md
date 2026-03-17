@@ -7,4 +7,4 @@ CSS
 JavaScript
 ## Preview do projeto
 
-![Preview do projeto](screenshot.png)
+![Preview do projeto](Formuláio.png)
